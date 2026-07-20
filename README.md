@@ -41,8 +41,8 @@ prodesk-it-landing-page/
 ├── prodeskLogo.png
 │
 └── images/
-    ├── lightBackground.jpg
-    ├── darkBackground.jpg
-    ├── seo.png
-    ├── web-development.png
-    └── marketing.png
+    ├── lightBackground.webp
+    ├── darkBackground.webp
+    ├── seo.webp
+    ├── web-development.webp
+    └── marketing.webp
